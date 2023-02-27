@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.side-menu{
+  background-color: #000 !important;
+}
+.navbar-menu{
+  background-color: #000 !important;
+}
+.side-menu-footer{
+  background-color: rgb(145, 195, 238) !important;
+}
+
+
+
+
+
